@@ -27,4 +27,11 @@
 
 ### Output:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP10/assets/119421232/7dfe78e9-1674-4c41-a7d4-e8f25498134a)
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP10/assets/119421232/01994d3a-2007-452a-8189-ef883f95eabf)
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP10/assets/119421232/740f1fd4-3094-4cb7-879e-27ffa5c6ed86)
+
+
 ### Result:
